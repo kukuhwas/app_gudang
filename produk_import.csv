@@ -1,0 +1,132 @@
+kode_produk;nama_produk;deskripsi;kode_toko;barcode;kode_varian;nama_varian
+P0001;Gamis Katun Madina;Gamis bahan katun Madina, polos, adem, dan nyaman dipakai;1;;;Biru Dongker
+P0001;Gamis Katun Madina;Gamis bahan katun Madina, polos, adem, dan nyaman dipakai;1;;;Hijau Botol
+P0001;Gamis Katun Madina;Gamis bahan katun Madina, polos, adem, dan nyaman dipakai;1;;;Mustard
+P0001;Gamis Katun Madina;Gamis bahan katun Madina, polos, adem, dan nyaman dipakai;1;;;Marun
+P0002;Khimar Ceruti Babydoll;Khimar bahan ceruti babydoll, dua layer, pet antem;2;;;Hitam
+P0002;Khimar Ceruti Babydoll;Khimar bahan ceruti babydoll, dua layer, pet antem;2;;;Lavender
+P0002;Khimar Ceruti Babydoll;Khimar bahan ceruti babydoll, dua layer, pet antem;2;;;Dusty Pink
+P0002;Khimar Ceruti Babydoll;Khimar bahan ceruti babydoll, dua layer, pet antem;2;;;Moka
+P0003;Tunik Linen Bordir;Tunik bahan linen, motif bordir bunga, lengan kancing;3;;;Putih
+P0003;Tunik Linen Bordir;Tunik bahan linen, motif bordir bunga, lengan kancing;3;;;Krem
+P0003;Tunik Linen Bordir;Tunik bahan linen, motif bordir bunga, lengan kancing;3;;;Abu-abu
+P0003;Tunik Linen Bordir;Tunik bahan linen, motif bordir bunga, lengan kancing;3;;;Coklat
+P0004;Rok Plisket Premium;Rok plisket bahan hyget premium, tidak menerawang;4;;;Hitam
+P0004;Rok Plisket Premium;Rok plisket bahan hyget premium, tidak menerawang;4;;;Navy
+P0004;Rok Plisket Premium;Rok plisket bahan hyget premium, tidak menerawang;4;;;Cream
+P0004;Rok Plisket Premium;Rok plisket bahan hyget premium, tidak menerawang;4;;;Silver
+P0005;Blouse Rajut Stripe;Blouse bahan rajut, motif stripe, kerah bulat;5;;;Hitam-Putih
+P0005;Blouse Rajut Stripe;Blouse bahan rajut, motif stripe, kerah bulat;5;;;Navy-Putih
+P0005;Blouse Rajut Stripe;Blouse bahan rajut, motif stripe, kerah bulat;5;;;Marun-Putih
+P0005;Blouse Rajut Stripe;Blouse bahan rajut, motif stripe, kerah bulat;5;;;Mustard-Hitam
+P0006;Pashmina Diamond;Pashmina bahan diamond italiano, mudah dibentuk, tidak licin;6;;;Hitam
+P0006;Pashmina Diamond;Pashmina bahan diamond italiano, mudah dibentuk, tidak licin;6;;;Abu Muda
+P0006;Pashmina Diamond;Pashmina bahan diamond italiano, mudah dibentuk, tidak licin;6;;;Coksu
+P0006;Pashmina Diamond;Pashmina bahan diamond italiano, mudah dibentuk, tidak licin;6;;;Milo
+P0007;Mukena Katun Rayon;Mukena bahan katun rayon, adem, motif polkadot;7;;;Pink
+P0007;Mukena Katun Rayon;Mukena bahan katun rayon, adem, motif polkadot;7;;;Biru
+P0007;Mukena Katun Rayon;Mukena bahan katun rayon, adem, motif polkadot;7;;;Ungu
+P0007;Mukena Katun Rayon;Mukena bahan katun rayon, adem, motif polkadot;7;;;Tosca
+P0008;Daster Arab Renda;Daster arab bahan rayon, motif renda, busui friendly;8;;;Hitam
+P0008;Daster Arab Renda;Daster arab bahan rayon, motif renda, busui friendly;8;;;Navy
+P0008;Daster Arab Renda;Daster arab bahan rayon, motif renda, busui friendly;8;;;Marun
+P0008;Daster Arab Renda;Daster arab bahan rayon, motif renda, busui friendly;8;;;Hijau
+P0009;Gamis Jersey Polos;Gamis bahan jersey, polos, model umbrella;9;;;Hitam
+P0009;Gamis Jersey Polos;Gamis bahan jersey, polos, model umbrella;9;;;Navy
+P0009;Gamis Jersey Polos;Gamis bahan jersey, polos, model umbrella;9;;;Marun
+P0009;Gamis Jersey Polos;Gamis bahan jersey, polos, model umbrella;9;;;Mustard
+P0010;Khimar Instan Jersey;Khimar instan bahan jersey, non pet, model pinguin;1;;;Hitam
+P0010;Khimar Instan Jersey;Khimar instan bahan jersey, non pet, model pinguin;1;;;Abu Tua
+P0010;Khimar Instan Jersey;Khimar instan bahan jersey, non pet, model pinguin;1;;;Dusty Pink
+P0010;Khimar Instan Jersey;Khimar instan bahan jersey, non pet, model pinguin;1;;;Moka
+P0011;Tunik Katun Toyobo;Tunik bahan katun toyobo, polos, kancing depan;2;;;Putih
+P0011;Tunik Katun Toyobo;Tunik bahan katun toyobo, polos, kancing depan;2;;;Hitam
+P0011;Tunik Katun Toyobo;Tunik bahan katun toyobo, polos, kancing depan;2;;;Navy
+P0011;Tunik Katun Toyobo;Tunik bahan katun toyobo, polos, kancing depan;2;;;Marun
+P0012;Rok Span Rajut;Rok span bahan rajut, model pensil, stretch;3;;;Hitam
+P0012;Rok Span Rajut;Rok span bahan rajut, model pensil, stretch;3;;;Abu Tua
+P0012;Rok Span Rajut;Rok span bahan rajut, model pensil, stretch;3;;;Cream
+P0012;Rok Span Rajut;Rok span bahan rajut, model pensil, stretch;3;;;Coklat
+P0013;Blouse Katun Madina;Blouse bahan katun Madina, polos, kerah bulat;4;;;Putih
+P0013;Blouse Katun Madina;Blouse bahan katun Madina, polos, kerah bulat;4;;;Biru Muda
+P0013;Blouse Katun Madina;Blouse bahan katun Madina, polos, kerah bulat;4;;;Pink
+P0013;Blouse Katun Madina;Blouse bahan katun Madina, polos, kerah bulat;4;;;Krem
+P0014;Pashmina Crinkle;Pashmina bahan katun crinkle, mudah dibentuk, tidak licin;5;;;Hitam
+P0014;Pashmina Crinkle;Pashmina bahan katun crinkle, mudah dibentuk, tidak licin;5;;;Abu Tua
+P0014;Pashmina Crinkle;Pashmina bahan katun crinkle, mudah dibentuk, tidak licin;5;;;Navy
+P0014;Pashmina Crinkle;Pashmina bahan katun crinkle, mudah dibentuk, tidak licin;5;;;Milo
+P0015;Mukena Terusan Polos;Mukena terusan bahan katun rayon, adem, polos;6;;;Hitam
+P0015;Mukena Terusan Polos;Mukena terusan bahan katun rayon, adem, polos;6;;;Navy
+P0015;Mukena Terusan Polos;Mukena terusan bahan katun rayon, adem, polos;6;;;Marun
+P0015;Mukena Terusan Polos;Mukena terusan bahan katun rayon, adem, polos;6;;;Dusty Pink
+P0016;Daster Katun Jepang;Daster bahan katun Jepang, motif bunga, busui friendly;7;;;Pink
+P0016;Daster Katun Jepang;Daster bahan katun Jepang, motif bunga, busui friendly;7;;;Biru
+P0016;Daster Katun Jepang;Daster bahan katun Jepang, motif bunga, busui friendly;7;;;Kuning
+P0016;Daster Katun Jepang;Daster bahan katun Jepang, motif bunga, busui friendly;7;;;Hijau
+P0017;Gamis Linen Motif;Gamis bahan linen, motif kotak-kotak, model A-line;8;;;Hitam-Putih
+P0017;Gamis Linen Motif;Gamis bahan linen, motif kotak-kotak, model A-line;8;;;Coklat-Putih
+P0017;Gamis Linen Motif;Gamis bahan linen, motif kotak-kotak, model A-line;8;;;Merah-Putih
+P0017;Gamis Linen Motif;Gamis bahan linen, motif kotak-kotak, model A-line;8;;;Biru-Putih
+P0018;Khimar Ceruti Polos;Khimar bahan ceruti babydoll, dua layer, pet antem;9;;;Hitam
+P0018;Khimar Ceruti Polos;Khimar bahan ceruti babydoll, dua layer, pet antem;9;;;Navy
+P0018;Khimar Ceruti Polos;Khimar bahan ceruti babydoll, dua layer, pet antem;9;;;Marun
+P0018;Khimar Ceruti Polos;Khimar bahan ceruti babydoll, dua layer, pet antem;9;;;Dusty Pink
+P0019;Tunik Katun Jepang;Tunik bahan katun Jepang, motif bunga, kancing depan;1;;;Pink
+P0019;Tunik Katun Jepang;Tunik bahan katun Jepang, motif bunga, kancing depan;1;;;Biru
+P0019;Tunik Katun Jepang;Tunik bahan katun Jepang, motif bunga, kancing depan;1;;;Kuning
+P0019;Tunik Katun Jepang;Tunik bahan katun Jepang, motif bunga, kancing depan;1;;;Hijau
+P0020;Rok Payung Katun;Rok payung bahan katun, polos, model lebar;2;;;Hitam
+P0020;Rok Payung Katun;Rok payung bahan katun, polos, model lebar;2;;;Navy
+P0020;Rok Payung Katun;Rok payung bahan katun, polos, model lebar;2;;;Marun
+P0020;Rok Payung Katun;Rok payung bahan katun, polos, model lebar;2;;;Coklat
+P0021;Blouse Crepe Polos;Blouse bahan crepe, polos, kerah V;3;;;Putih
+P0021;Blouse Crepe Polos;Blouse bahan crepe, polos, kerah V;3;;;Hitam
+P0021;Blouse Crepe Polos;Blouse bahan crepe, polos, kerah V;3;;;Navy
+P0021;Blouse Crepe Polos;Blouse bahan crepe, polos, kerah V;3;;;Dusty Pink
+P0022;Pashmina Sabyan;Pashmina bahan ceruti babydoll, model sabyan;4;;;Hitam
+P0022;Pashmina Sabyan;Pashmina bahan ceruti babydoll, model sabyan;4;;;Abu Tua
+P0022;Pashmina Sabyan;Pashmina bahan ceruti babydoll, model sabyan;4;;;Moka
+P0022;Pashmina Sabyan;Pashmina bahan ceruti babydoll, model sabyan;4;;;Milo
+P0023;Mukena Anak Karakter;Mukena anak bahan katun, motif karakter;5;;;Pink - Unicorn
+P0023;Mukena Anak Karakter;Mukena anak bahan katun, motif karakter;5;;;Biru - Frozen
+P0023;Mukena Anak Karakter;Mukena anak bahan katun, motif karakter;5;;;Ungu - LOL
+P0023;Mukena Anak Karakter;Mukena anak bahan katun, motif karakter;5;;;Tosca - Mermaid
+P0024;Daster Payung Polos;Daster payung bahan rayon, polos, busui friendly;6;;;Hitam
+P0024;Daster Payung Polos;Daster payung bahan rayon, polos, busui friendly;6;;;Navy
+P0024;Daster Payung Polos;Daster payung bahan rayon, polos, busui friendly;6;;;Marun
+P0024;Daster Payung Polos;Daster payung bahan rayon, polos, busui friendly;6;;;Hijau
+P0025;Gamis Katun Rayon Viscose;Gamis bahan katun rayon viscose, motif bunga, model rempel;7;;;Pink
+P0025;Gamis Katun Rayon Viscose;Gamis bahan katun rayon viscose, motif bunga, model rempel;7;;;Biru
+P0025;Gamis Katun Rayon Viscose;Gamis bahan katun rayon viscose, motif bunga, model rempel;7;;;Kuning
+P0025;Gamis Katun Rayon Viscose;Gamis bahan katun rayon viscose, motif bunga, model rempel;7;;;Hijau
+P0026;Khimar Instan Kaos;Khimar instan bahan kaos, non pet, model serut;8;;;Hitam
+P0026;Khimar Instan Kaos;Khimar instan bahan kaos, non pet, model serut;8;;;Abu Tua
+P0026;Khimar Instan Kaos;Khimar instan bahan kaos, non pet, model serut;8;;;Navy
+P0026;Khimar Instan Kaos;Khimar instan bahan kaos, non pet, model serut;8;;;Marun
+P0027;Tunik Linen Rami;Tunik bahan linen rami, polos, kancing depan;9;;;Putih
+P0027;Tunik Linen Rami;Tunik bahan linen rami, polos, kancing depan;9;;;Hitam
+P0027;Tunik Linen Rami;Tunik bahan linen rami, polos, kancing depan;9;;;Krem
+P0027;Tunik Linen Rami;Tunik bahan linen rami, polos, kancing depan;9;;;Coklat
+P0028;Rok Lilit Batik;Rok lilit bahan katun, motif batik, free gesper;1;;;Coklat - Klasik
+P0028;Rok Lilit Batik;Rok lilit bahan katun, motif batik, free gesper;1;;;Hitam - Parang
+P0028;Rok Lilit Batik;Rok lilit bahan katun, motif batik, free gesper;1;;;Biru - Modern
+P0028;Rok Lilit Batik;Rok lilit bahan katun, motif batik, free gesper;1;;;Merah - Kontemporer
+P0029;Blouse Brokat;Blouse bahan brokat, kerah bulat, full furing;2;;;Putih
+P0029;Blouse Brokat;Blouse bahan brokat, kerah bulat, full furing;2;;;Krem
+P0029;Blouse Brokat;Blouse bahan brokat, kerah bulat, full furing;2;;;Pink
+P0029;Blouse Brokat;Blouse bahan brokat, kerah bulat, full furing;2;;;Biru Muda
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Moka
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Dusty Pink
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Abu-abu
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Lavender
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Gold
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Silver
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Rose Gold
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Navy
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Marun
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Hijau Botol
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Mint
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Baby Blue
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Lilac
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Peach
+P0030;Gamis Pesta;Gamis bahan brokat, kombinasi tile, model A-line;3;;;Putih

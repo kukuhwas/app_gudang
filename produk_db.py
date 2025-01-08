@@ -40,12 +40,10 @@ def create_database():
 
     # Tabel penerimaan_barang
     cursor.execute('''
-        CREATE TABLE IF NOT EXISTS penerimaan_barang (
-            no_penerimaan TEXT PRIMARY KEY,
-            tanggal DATE,
-            supplier_id INTEGER,
-            keterangan TEXT,
-            FOREIGN KEY (supplier_id) REFERENCES supplier(id_supplier)
+        CREATE TABLE IF NOT EXISTS nomor_spb (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            tahun_bulan TEXT,
+            nomor_terakhir INTEGER
         )
     ''')
 
@@ -135,4 +133,5 @@ def ambil_semua_supplier():
     rows = cursor.fetchall()
     conn.close()
     return rows
+
 

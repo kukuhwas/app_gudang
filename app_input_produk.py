@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from database import tambah_produk, ambil_semua_produk, ambil_produk_berdasarkan_nama_dan_varian
+from produk_db import tambah_produk, ambil_semua_produk, ambil_produk_berdasarkan_nama_dan_varian
 import random
 import sqlite3
 

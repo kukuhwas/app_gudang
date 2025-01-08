@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import sqlite3
 from difflib import SequenceMatcher
 import random
-from database import catat_log # Import fungsi catat_log
+from produk_db import catat_log # Import fungsi catat_log
 
 class WindowFilter:
     def __init__(self, root):
@@ -162,7 +162,7 @@ class WindowFilter:
         self.refresh_data_callback()  # Memanggil filter_data untuk refresh tampilan tabel
 
         # Catat log
-        catat_log('EDIT VARIAN', str(data_lama), str(updated_data), f'Varian diubah dari {nama_varian_lama} menjadi {nama_varian_baru}')
+        catat_log('EDIT VARIAN', str(data_lama), str(updated_data), f'Varian diubah dari {nama_varian_lama} menjadi {nama_varian_baru}') # type: ignore
 
     def hapus_varian(self):
         """Menghapus varian yang dipilih."""
@@ -257,7 +257,7 @@ class WindowFilter:
         self.refresh_data_callback()
 
         # Catat log
-        catat_log('EDIT PRODUK', str(data_lama), str(updated_data), f'Produk diubah dari nama: {nama_produk_lama}, deskripsi: {deskripsi_lama}, kode toko: {kode_toko_lama} menjadi nama: {nama_produk_baru}, deskripsi: {deskripsi_baru}, kode toko: {kode_toko_baru}')
+        catat_log('EDIT PRODUK', str(data_lama), str(updated_data), f'Produk diubah dari nama: {nama_produk_lama}, deskripsi: {deskripsi_lama}, kode toko: {kode_toko_lama} menjadi nama: {nama_produk_baru}, deskripsi: {deskripsi_baru}, kode toko: {kode_toko_baru}') # type: ignore
 
     def hapus_produk(self):
         """Menghapus produk yang dipilih."""
